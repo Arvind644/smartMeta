@@ -2,7 +2,7 @@
 
 This is the SEO metatdata generator which tooks content of your page and produce SEO friendly metadata and description for your website.
 
-[![SmartMeta](./public/ui.png)]
+![SmartMeta](./public/ui.png)
 
 ## How it works
 
